@@ -1,12 +1,12 @@
-﻿<div align="center">
+> ![license](https://img.shields.io/github/license/knownasrazi/image-sharp-web?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Canvas%20%2B%20WASM-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
+
+---
+
+<div align="center">
 
 # image-sharp-web
 
 **Images sharp, private by default.**
-
-![license](https://img.shields.io/github/license/knownasrazi/image-sharp-web?style=flat-square&color=ebe7e0&label=license)
-![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square&label=version)
-![cream](https://img.shields.io/badge/cream-aesthetic-ede9e3?style=flat-square&label=style)
 
 Browser-based image optimizer - compress, resize, and convert without upload.
 
@@ -14,45 +14,31 @@ Browser-based image optimizer - compress, resize, and convert without upload.
 
 ---
 
-## Preview
+## Features
 
-> Images sharp, private by default. - built for vibe coders and web developers who ship.
+| Feature | Detail |
+|---------|--------|
+| **Speed** | Local-first, no upload |
+| **Taste** | Cream aesthetic, stone and ink |
+| **Stack** | Canvas + WASM |
+| **For** | Vibe coders and web developers |
 
-## Stack
+## Why image-sharp-web?
 
-- Vite + React + TypeScript
-- Tailwind CSS (cream palette)
-- Biome for lint and format
+Web tools should feel like paper. This one does.
 
-## Get started
+- **Private by default** — runs in your browser or on your machine
+- **No lock-in** — export HTML, JSON, or Markdown
+- **Cream** — low contrast, high taste
+
+## Usage
 
 ```bash
 git clone https://github.com/knownasrazi/image-sharp-web.git
 cd image-sharp-web
-bun install
 bun run dev
 ```
-image-sharp-web/
-  src/
-    App.tsx      # app shell
-    index.css    # cream tokens
-  index.html
-  vite.config.ts
-  package.json
-```
-
-## Cream tokens
-
-Cream, stone, and ink - low contrast, high taste.
 
 ## License
 
-[MIT](./LICENSE) + [Razi](https://github.com/knownasrazi)
-
----
-
-<div align="center">
-
-**image-sharp-web** - Browser-based image optimizer - compress, resize, and convert without upload.
-
-</div>
+[MIT](./LICENSE)
