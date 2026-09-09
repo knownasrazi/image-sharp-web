@@ -19,7 +19,7 @@ Browser-based image optimizer - compress, resize, and convert without upload.
 | Feature | Detail |
 |---------|--------|
 | **Speed** | Local-first, no upload |
-| **Taste** | Cream aesthetic, stone and ink |
+| **Taste** | Clean aesthetic, stone and ink |
 | **Stack** | Canvas + WASM |
 | **For** | Vibe coders and web developers |
 
@@ -29,7 +29,7 @@ Web tools should feel like paper. This one does.
 
 - **Private by default** — runs in your browser or on your machine
 - **No lock-in** — export HTML, JSON, or Markdown
-- **Cream** — low contrast, high taste
+- **Clean** — low contrast, high taste
 
 ## Usage
 
