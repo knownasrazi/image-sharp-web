@@ -2,5 +2,6 @@
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
+  base: "/image-sharp-web/",
   plugins: [react()],
 });
